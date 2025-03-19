@@ -55,7 +55,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ardaoezsap/obesity-estimation/tree/main
+   git clone https://github.com/ardaoezsap/obesity-estimation.git
    ```
 2. Run the Jupyter notebook or script:
    ```bash
