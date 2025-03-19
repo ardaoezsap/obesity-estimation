@@ -44,7 +44,7 @@ The target variable, `NObeyesdad`, classifies individuals into six obesity categ
 - **Confusion Matrix**: Assess misclassifications across obesity levels
 
 ## Results
-After applying machine learning techniques, the final model achieves an accuracy of **94%** in classifying obesity levels. The classification report highlights strong performance across all categories, with high precision and recall.
+After applying machine learning techniques, the final model achieves an accuracy of **95%** in classifying obesity levels. The classification report highlights strong performance across all categories, with high precision and recall.
 
 ## Installation & Requirements
 To run this project, install the necessary dependencies:
