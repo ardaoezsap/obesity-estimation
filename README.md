@@ -69,7 +69,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - **Optimize dataset balancing techniques** to improve classification for minority classes
 
 ## Contributors
-- **Arda Özsap** (ardaozsapß3@gmail.com)
+- **Arda Özsap** (ardaozsap03@gmail.com)
 
 
 ## License
